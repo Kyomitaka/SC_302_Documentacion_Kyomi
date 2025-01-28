@@ -1,2 +1,2 @@
-# SC_302_Documentacion_MN_Kyomi
+# SC_302_Documentacion_Kyomi
 Laboratorio 1
